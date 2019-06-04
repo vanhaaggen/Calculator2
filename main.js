@@ -5,7 +5,7 @@
 //------!important---------Para que showInfo() y hideInfo() se activen, el resultanto siempre tiene que ser -2020.
 
 (function(){
-	alert('To activate special function type '-2018' and hit enter button.\nFor returning to normal state, '-2018' and AC button')
+	alert("To activate special function type '-2018' and hit enter button.\nFor returning to normal state, '-2018' and AC button")
 })();
 
 function numOp(val) {
